@@ -1,7 +1,7 @@
 # _design
 Classmere user interface design
 
-## [ios](https://github.com/classmere/ios | width=15)
+## [ios](https://github.com/classmere/ios)
 ### home view
 ![home view](ios/home_view.png)
 
